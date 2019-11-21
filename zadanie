@@ -1,0 +1,27 @@
+ZADANIE :
+=========
+
+Program konvertuje cislo (max 10 mieste) v numerickej podobe na prislusny slovny ekvivalent.
+
+Podmienky :
+
+1.Uzivatel si pri spusteni programu vyberie jazyk v ktorom chce mat vystupne slovo (,,SK,,CZ,,EN)
+2. Jednotlive jazykove verzie slov su ulozene v spolocnom excelovskom subore, kde kazda jazykova verzia je v samostatnom harku.
+Tato moznost umoznuje lahke editovanie ci pripadne pridavanie novej jazykovej verzie prekladu.
+
+
+Standarny vstup :
+
+1.Vyber jazyk v ktorom ma byt zobrazeny slovny ekvivalent cisla :  ,,sk,, ,,cz,, ,,en,,
+2. Zadaj akekolvek max 10 miestne cislo
+Napr.  123
+
+Standardny vystup :
+
+sto dvadsať tri
+
+sto dvacet tři
+
+one hundred twenty three
+
+=====================================================================

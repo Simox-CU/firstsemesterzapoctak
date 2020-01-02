@@ -12,3 +12,14 @@ ZADANIE :
 
 - program vypíše všetky nájdené slová zo zvoleného slovníka na základe všetkých možných kombinácií písmen z vyhľadávacieho reťazca
 
+POUŽITIE :
+=====================================================================
+Po spustení programu:
+
+- výber slovníka
+
+- zadanie počtu zadávaných písmen
+
+- zadanie reťazca písmen
+
+- vyhľadanie slov podľa zadaných písmen

@@ -23,7 +23,7 @@ def readDictionary():
             break
     return dictionary
 
-##Zadanie slov##
+##Zadanie reťazca písmen##
 def readWord():
     word = input("Zadaj vstupný reťazec (malých) písmen: ").lower()
     while not word.isalpha():

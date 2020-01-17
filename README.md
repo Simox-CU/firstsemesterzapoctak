@@ -18,8 +18,7 @@ Po spustení programu:
 
 - výber slovníka
 
-- zadanie počtu zadávaných písmen
-
 - zadanie reťazca písmen
 
-- vyhľadanie slov podľa zadaných písmen
+- vyhľadanie slov podľa zadaného reťazca
+

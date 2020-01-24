@@ -31,6 +31,7 @@ def score_mutacia():
 
 mutacia = ""
 
+##Počítanie skóre slov##
 def scrabble_score(word):
     score_cz,score_en,score_sk = score_mutacia()
     global mutacia
@@ -82,7 +83,7 @@ def readWord():
     return list(word)
 
 
-##Získavanie slov zo slovníku na základe zadaného reťazca##	
+##Vypísanie skóre a slov##	
 def writePossibilities(items):
     nd_array = []
 
@@ -99,6 +100,7 @@ def writePossibilities(items):
            return
     print('Všetky nájdené slová sa zobrazili')
 
+##Získavanie slov zo slovníku na základe zadaného reťazca##
 def get_words(dictionary, orginal_s, new_s, word_list):
     
     if not new_s:

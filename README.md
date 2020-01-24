@@ -8,7 +8,7 @@ ZADANIE :
 
 - užívateľ zadá reťazec písmen
 
-- program vypíše všetky nájdené slová zo zvoleného slovníka na základe všetkých možných kombinácií písmen z vyhľadávacieho reťazca a    zostupne ich oboduje a zoradí podľa scrabble tabuľky
+- program vypíše všetky nájdené slová zo zvoleného slovníka na základe všetkých možných kombinácií písmen z vyhľadávacieho reťazca a    zostupne ich oboduje a zoradí 
 
 POUŽITIE :
 =====================================================================

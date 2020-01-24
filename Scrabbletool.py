@@ -96,7 +96,7 @@ def writePossibilities(items):
     for item in nd_array:
         print(item)
 
-	##Získavanie slov zo slovníku na základe zadaného reťazca##    
+##Získavanie slov zo slovníku na základe zadaného reťazca##    
 def get_words(dictionary, orginal_s, new_s, word_list):
     
     if not new_s:

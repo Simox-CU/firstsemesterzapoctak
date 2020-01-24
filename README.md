@@ -4,7 +4,7 @@ Zápočtový program (Zimný semester 2019/2020) - Scrabble tool
 ZADANIE :
 =====================================================================
 - pri spustení programu si užívateľ vyberie z ,,N,, slovníkov (*.txt súbory), ktoré použije pre hľadanie slov 
-  zo zadaného reťazca písmen (SK, SK-diakritika, CZ, CZ-diakritika, EN, vlastný, prípadne iné)
+  zo zadaného reťazca písmen (SK, SK-diakritika,CZ-diakritika, EN, vlastný, prípadne iné)
 
 - užívateľ zadá reťazec písmen
 

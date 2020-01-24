@@ -83,7 +83,7 @@ def readWord():
     return list(word)
 
 
-##Vypísanie skóre a slov##	
+##Vypísanie skóre a slov po jednom nájdenom slove##	
 def writePossibilities(items):
     nd_array = []
 

@@ -86,7 +86,7 @@ def writePossibilities(items):
         nd_array.sort(key=lambda x: int(''.join(filter(str.isdigit, x))),reverse=True)
     for item in nd_array:
         print(item)
-        answer = input("Chceš zobraziť ďalšie nájdené slovo? (y/n): ")
+        answer = input("Chceš zobraziť ďalšie nájdené slovo? (a/n): ")
         if answer == 'n':
            return
     print('Všetky nájdené slová sa zobrazili')
